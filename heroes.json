@@ -1,52 +1,51 @@
 {
   "heroes": [
     {
-      "id": "c7939dd0-c9fb-4c8a-99e0-164768d26226",
-      "name": "1",
-      "description": "2",
-      "element": "fire"
-    },
-    {
-      "id": "9f08eef2-1652-4a7e-ac78-aac50135f3b8",
-      "name": "2",
-      "description": "2",
-      "element": "water"
-    },
-    {
-      "id": "37529835-7106-4881-9629-fbf64fcbd21e",
-      "name": "3",
-      "description": "3",
-      "element": "wind"
-    },
-    {
       "id": "4ddf6e1b-4b73-44c2-8164-48c298ee809c",
       "name": "4",
       "description": "4",
       "element": "earth"
+    },
+    {
+      "id": "31342228-92ed-4b03-bc8e-0e914f7ccae9",
+      "name": "Ди",
+      "description": "Думать головой",
+      "element": "fire"
+    },
+    {
+      "id": "d5ce87f1-e247-4157-9f54-ce3684eefab3",
+      "name": "Бэн",
+      "description": "Тридцать трива",
+      "element": "wind"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
